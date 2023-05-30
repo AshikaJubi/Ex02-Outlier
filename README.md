@@ -13,6 +13,9 @@ You are given bhp.csv which contains property prices in the city of banglore, In
     (i) Using IQR detect weight outliers and print them
 
     (ii) Using IQR, detect height outliers and print them
+    
+ ## AIM:
+To detect and remove the outlier in the given dataset and save the final
 
 # CODE
 ```
